@@ -18,10 +18,10 @@ function clone3(array) {
 //Array
 var array = [1, 2, 3, 4];
 var copyArray = clone(array);
-console.log(clone(copyArray));
+console.log(copyArray);
 var copyArray = clone1(array);
-console.log(clone(copyArray));
+console.log(copyArray);
 var copyArray = clone2(array);
-console.log(clone(copyArray));
+console.log(copyArray);
 var copyArray = clone3(array);
-console.log(clone(copyArray));
+console.log(copyArray);
